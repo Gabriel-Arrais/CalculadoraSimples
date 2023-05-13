@@ -40,7 +40,7 @@ int main(){
 			}
 			break;
 		default:
-			printf("Não existe nenhum calculado com essa alternativa. Digite entre 1 e 4.");
+			printf("Não existe nenhum cálculo com essa alternativa. Digite entre 1 e 4.");
 			break;
 	}
 }
